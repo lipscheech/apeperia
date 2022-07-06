@@ -46,3 +46,10 @@
     }
 
 }
+
+@media screen and (min-width: 1600px) {
+    .chamada {
+        height: 50vh;
+        justify-content: center;
+    }
+}
